@@ -1,0 +1,141 @@
+body {
+    color: #fff;
+    font-family: 'Roboto', sans-serif;
+}
+
+/*--------------------------main-----------------------*/
+.showcase {
+    height: 100vh;
+    width: 100%;
+    background-image: url(../images/beach-cold.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    display: block;
+    
+    text-align: center;
+
+
+}
+
+.content {
+    position: absolute;
+    z-index: 1;
+    top: 10%;
+    left: 50%;
+    margin-top: 105px;
+    margin-left: -145px;
+    width: 300px;
+    height: 350px;
+    text-align: center;
+
+}
+
+.content .logo {
+    height: 180px;
+    width: 180px;
+}
+
+
+.content .title {
+    color: #fff;
+  font-size: 2.2rem;
+  margin-top: 1rem;
+
+}
+
+.content .text {
+     color: #fff;
+  line-height: 1.7;
+  margin-top: 1rem;
+
+}
+
+.main-menu {
+    color:#fff;
+    line-height: 1.8;
+    font-size: 20px;
+    padding-top: 20px;
+    
+}
+
+
+/*--------------------------Services-----------------------*/
+
+.bg-light {
+  background: #f4f4f4;
+  color: #333;
+}
+
+.bg-dark {
+  background: #333;
+  color: #f4f4f4;;
+}
+
+.services {
+    display: flex;
+    text-align: center;
+   padding: 4rem 1rem;
+}
+
+.grid-1 {
+    display: grid;
+    grid-gap:10px;
+}
+.iconic{
+    margin-bottom: 10px;
+}
+/*--------------------------Footer-----------------------*/
+
+.footer {
+    padding: 20px;
+    padding-left: 50px;
+}
+.social {
+    padding-left: 20px;
+}
+
+#follow {
+    padding-left: 20px;
+}
+/*--------------------------Colors-----------------------*/
+
+a {
+    color: #fff;
+}
+
+
+
+
+/*--------------------------About.html-----------------------*/
+
+.benefits {
+position:absolute;
+padding-top: 100px;
+
+}
+
+.abt-title {
+    padding:20px;
+}
+.abt-text {
+    overflow: scroll;
+}
+
+
+
+/*--------------------------Tides.html-----------------------*/
+
+.forecast iframe {
+    position: relative;
+    height:300px;
+    width:500px;}
+    
+    .tide-txt {
+        position: relative;
+        padding-top: 100px;
+        padding-bottom:50px;
+        
+        text-align: center;
+        display: block;
+    }
