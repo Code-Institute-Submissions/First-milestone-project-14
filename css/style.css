@@ -1,5 +1,5 @@
 body {
-    color: #fff;
+    color:#fff;
     font-family: 'Roboto', sans-serif;
 }
 
@@ -139,3 +139,41 @@ padding-top: 100px;
         text-align: center;
         display: block;
     }
+    
+    
+    
+    /*--------------------------Events.html-----------------------*/
+    
+  .head {
+        font-size: 3rem;
+    }
+    
+    
+.events {
+    overflow: hidden;
+    
+    
+}
+
+.event-text {
+    color: #010c48;
+}
+
+
+
+
+  /*--------------------------About.html-----------------------*/
+  
+  .abt-icn i{
+      padding:20px;
+  }
+  
+  .abt-text {
+      color:#010c48;
+      background-color: rgba(255, 255, 255, 0.2);
+      
+  }
+  .abt-text-2 {
+      color:#fff;
+      background-color: rgba(1, 12, 72,0.2);
+  }
