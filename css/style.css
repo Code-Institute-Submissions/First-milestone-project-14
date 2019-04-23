@@ -56,18 +56,23 @@ body {
   margin-top: 1rem;
 
 }
+.main-menu-wrap {
+    background:#333;
+    position: sticky;
+    top: 0;
+}
 
 .main-menu {
     color:#fff;
     line-height: 1.8;
     font-size: 20px;
-    padding-top: 20px;
+    padding: 20px 0;
     transition-duration: 5s ease-in-out;
     
 }
 
 .main-menu a:hover {
-    color:#010c48;
+    color:#dae0de;
     text-decoration: none;
     transition-duration: 5s ease-in-out;
 }
