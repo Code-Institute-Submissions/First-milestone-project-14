@@ -27,20 +27,19 @@ body {
 }
 
 .content {
-    position: absolute;
-    z-index: 1;
-    top: 10%;
-    left: 50%;
-    margin-top: 105px;
-    margin-left: -145px;
-    width: 300px;
-    height: 350px;
-    text-align: center;
+    display: flex;
+    flex-direction:column;
+    align-items:center;
+    justify-content:center;
+    height: 100%;
+    margin-top: -120px;
+    padding:0 24px;
 }
 
 .content .logo {
     height: 180px;
     width: 180px;
+    border-radius: 50px;
 }
 
 
