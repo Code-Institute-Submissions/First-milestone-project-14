@@ -104,6 +104,16 @@ body {
     margin-bottom: 10px;
 }
 
+.grid-1 h3 {
+    transition: 0.5s ease-in-out;
+    color:white;
+}
+
+.grid-1 h3:hover {
+    color: white;
+  opacity: 0.4;
+  text-decoration: none;
+}
 /*--------------------------Footer-----------------------*/
 
 .footer {
@@ -117,12 +127,27 @@ body {
 #follow {
     padding-left: 20px;
 }
+.fab {
+    transition: 0.5s ease-in-out;
+}
+.fab:hover {
+  color: white;
+  opacity: 0.4;
+  text-decoration: none;
+}
+ 
 /*--------------------------Colors-----------------------*/
 
 a {
     color: #fff;
+    transition: 0.5s ease-in-out;
 }
 
+a:hover {
+    text-decoration: none;
+    color:white;
+    opacity: 0.4;
+}
 
 
 
