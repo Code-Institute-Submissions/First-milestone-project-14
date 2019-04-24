@@ -1,7 +1,8 @@
-body {
+body{
     color: #fff;
     font-family: 'Roboto', sans-serif;
-}
+   background-color: #343a40;
+    }
 
 /*--------------------------main-----------------------*/
 
@@ -58,10 +59,10 @@ body {
 }
 
 .main-menu-wrap {
-    background: #333;
+    background: #343a40;
     position: sticky;
     top: 0;
-}
+    }
 
 .main-menu {
     color: #fff;
@@ -101,7 +102,9 @@ body {
     display: grid;
     grid-gap: 10px;
 }
-
+.grid-2{
+    margin-left: 5%;
+}
 .iconic {
     margin-bottom: 10px;
 }
