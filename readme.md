@@ -46,13 +46,14 @@ Google Fonts: This project uses Google fonts roboto for body text  link:https://
 TESTING
 I have tested that all links work as intended and the layout suits all screen sizes.
 I encountered some problems when viewing on a mobile device such as on the landing page, the logo looked too big
-and was nested too close to the top of the screen. I fixed this by adding a media query which reduces the size pf the logo 
+and was nested too close to the top of the screen. I fixed this by adding a media query which reduces the size of the logo 
 and the text aswell as adding some padding to the top so it doesnt hug the top like it did previously.
 
 
 DEPLOYMENT:
 I deployed the site using git hub. 
 you can view the site here :https://neilfoster.github.io/First-milestone-project/tides.html
+There are no differences between the deployed version and the develpment version
 
 
 CREDITS:
