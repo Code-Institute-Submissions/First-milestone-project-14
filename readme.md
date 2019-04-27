@@ -36,10 +36,10 @@ it would be great in the future to add some additional features such as a forum 
 the ordinary like seal sightings and bad water conditions or add some photos of their swim and views of the sea.
 
 ## TECHNOLOGIES USED:
-* Bootstrap 4: This project uses Bootstrap 4 for layout purposes     [Bootstrap](https://getbootstrap.com)
-*Font Awesome: This project uses Fontawesome for Icons              [Fontawesome](https://fontawesome.com/)
-*Flexbox: This Project uses Flexbox for positioning  items          [flexbox](https://en.wikipedia.org/wiki/CSS_Flexible_Box_Layout) 
-*Google Fonts: This project uses Google fonts roboto for body text  [Google fonts](https://fonts.google.com/)
+* Bootstrap 4: This project uses Bootstrap 4 for layout purposes     [Bootstrap](https://getbootstrap.com).
+*Font Awesome: This project uses Fontawesome for Icons              [Fontawesome](https://fontawesome.com/).
+*Flexbox: This Project uses Flexbox for positioning  items          [flexbox](https://en.wikipedia.org/wiki/CSS_Flexible_Box_Layout).
+*Google Fonts: This project uses Google fonts roboto for body text  [Google fonts](https://fonts.google.com/).
 
 
 ## TESTING
@@ -51,7 +51,7 @@ and the text aswell as adding some padding to the top so it doesnt hug the top l
 
 ## DEPLOYMENT:
 I deployed the site using github pages. 
-you can view the site here :https://neilfoster.github.io/First-milestone-project/tides.html
+you can view the site here [github](https://neilfoster.github.io/First-milestone-project/tides.html)
 There are no differences between the deployed version and the develpment version
 
 
