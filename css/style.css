@@ -6,7 +6,7 @@ body {
 
 /*--------------------------main-----------------------*/
 
-.showcase-1 {
+#showcase-1 {
     height: 100vh;
     width: 100%;
     background-image: url(../images/beach-cold.jpg);
